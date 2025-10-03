@@ -149,7 +149,7 @@ button:focus {
     height: 35px;
     width: 35px;
     background-color: #000;
-    display: none;
+    
     z-index: 10000;
     border-radius: 3px;
     right: 20px;
@@ -192,7 +192,7 @@ button:focus {
 
 .header_section {
     padding: 200px 0px 120px;
-    background-image: url(../images/header_img.jpg);
+    background-image: url(header_img.jpg);
     background-position: center center;
     background-size: cover;
     position: relative;
@@ -436,7 +436,7 @@ button:focus {
 }
 
 .stickyadd .logo .logo-light {
-    display: none;
+    
 }
 
 .logo .logo-dark {
@@ -452,7 +452,7 @@ button:focus {
 ============================*/
 
 .home-bg {
-    background-image: url(../images/home-bg.jpg);
+    background-image: url(home-bg.jpg);
     background-position: center center;
     background-size: cover;
     position: relative;
